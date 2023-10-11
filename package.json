@@ -1,0 +1,22 @@
+{
+  "name": "bolteste",
+  "version": "1.0.0",
+  "description": "Automatização de teste Bolt",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TavioBRMG/testebolt.git"
+  },
+  "author": "Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TavioBRMG/testebolt/issues"
+  },
+  "homepage": "https://github.com/TavioBRMG/testebolt#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
