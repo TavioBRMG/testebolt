@@ -18,5 +18,8 @@
   "homepage": "https://github.com/TavioBRMG/testebolt#readme",
   "devDependencies": {
     "cypress": "^13.3.0"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
   }
 }
